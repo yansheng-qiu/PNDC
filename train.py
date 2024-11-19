@@ -119,7 +119,6 @@ def main():
     ##########Evaluate
     if args.resume is not None:
         checkpoint = torch.load(args.resume)
-        logging.info('best epoch: {}'.format(checkpoint['epoch']))
         model.load_state_dict(checkpoint['state_dict'])
         test_score = AverageMeter()
         with torch.no_grad():
