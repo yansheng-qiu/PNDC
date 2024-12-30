@@ -7,7 +7,7 @@ Official implementation of Does Adding a Modality Really Make a Positive Impacts
 
 ## Requirements
 * Python >= 3.8
-* Pytorch == 10.0
+* Pytorch == 1.10.0
 
 
 
