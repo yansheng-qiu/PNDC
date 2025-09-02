@@ -9,7 +9,6 @@ Official implementation of Does Adding a Modality Really Make a Positive Impacts
 * Python >= 3.8
 * Pytorch == 1.10.0
 
-This code is temporarily provided for testing and the complete training code is being organized.
 
 The checkpoint, which is fully compatible with the RFNet code, trained on the Brats 2023 dataset (https://pan.quark.cn/s/bd56cdf4462d) is provided here for reference. 
 
